@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { DynamicInput } from "./components/DynamicInput";
 
 import "./App.css";
