@@ -3,11 +3,7 @@ import { DynamicInput } from "./components/DynamicInput";
 import "./App.css";
 
 function App() {
-  return (
-    <>
-      <DynamicInput />
-    </>
-  );
+  return <DynamicInput />;
 }
 
 export default App;
